@@ -112,16 +112,6 @@ python megasena_simulator.py
 | 15      | 30030,00 | 1 em 3.174 |
 | 20      | 232,560.00| 1 em 543 |
 
-## 📸 Screenshots
-
-### Sorteio Manual
-![Sorteio Manual](https://via.placeholder.com/800x500?text=Sorteio+Manual)
-
-### Seletor Visual
-![Seletor Visual](https://via.placeholder.com/650x550?text=Seletor+Visual)
-
-### Simulação Automática
-![Simulação Automática](https://via.placeholder.com/800x500?text=Simulacao+Automatica)
 
 ## 🧮 Exemplos de Uso
 
