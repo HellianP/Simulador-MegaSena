@@ -48,7 +48,7 @@ Um simulador completo e interativo da Mega-Sena desenvolvido em Python com inter
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/simulador-megasena.git
+git clone https://github.com/HellianP/Simulador-MegaSena.git
 cd simulador-megasena
 ```
 
@@ -118,7 +118,7 @@ python megasena_simulator.py
 ### Exemplo 1: Testar um jogo simples
 ```python
 # Adicione 6 dezenas: 1, 5, 12, 23, 34, 45
-# Custo: R$ 5,00
+# Custo: R$ 6,00
 # Probabilidade: 0.000002% (1 em 50 milhões)
 ```
 
@@ -133,7 +133,7 @@ python megasena_simulator.py
 ### Exemplo 3: Estratégia com múltiplos jogos
 ```python
 # Adicione 3 jogos diferentes (6, 7 e 8 dezenas)
-# Custo por sorteio: R$ 180,00
+# Custo por sorteio: R$ 6,00 + R$ 42,00 + R$168,00 
 # Simule 1000 sorteios
 # Compare os resultados de cada jogo
 ```
@@ -142,7 +142,7 @@ python megasena_simulator.py
 
 - **Probabilidade de ganhar na Sena com 6 dezenas:** 1 em 50.063.860 (~0,000002%)
 - **Para ter 50% de chance de ganhar:** Seria necessário jogar ~34.657.359 vezes
-- **Custo para 50% de chance (6 dezenas):** R$ 173.286.795,00
+- **Custo para 50% de chance (6 dezenas):** Maior do que R$ 173.286.795,00
 - **Estatisticamente:** Você tem mais chance de ser atingido por um raio! ⚡
 
 ## 🤝 Contribuindo
@@ -178,7 +178,7 @@ Este é um **simulador educacional** para fins de entretenimento e aprendizado s
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. 
 
 ## 👤 ~ Hellian
 
